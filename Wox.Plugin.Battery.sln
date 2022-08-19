@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wox.Plugin.Battery", "Wox.Plugin.Battery.csproj", "{AE960DF4-43BE-4685-AAFD-F2146554D48C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE960DF4-43BE-4685-AAFD-F2146554D48C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE960DF4-43BE-4685-AAFD-F2146554D48C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE960DF4-43BE-4685-AAFD-F2146554D48C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE960DF4-43BE-4685-AAFD-F2146554D48C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9761BA21-83CA-4500-BD5B-C82F48600064}
+	EndGlobalSection
+EndGlobal

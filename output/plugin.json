@@ -1,0 +1,12 @@
+{
+    "ID":"A270E485FE2141678DDB429A12754144",
+    "ActionKeyword":"ba",
+    "Name":"Battery",
+    "Description":"Battery info-status",
+    "Author":"rybcom",
+    "Version":"1.0.0",
+    "Language":"csharp",
+    "Website":"http://www.getwox.com/plugin",
+    "ExecuteFileName":"Wox.Plugin.Battery.dll",
+    "IcoPath":"Images\\battery.png"
+}
